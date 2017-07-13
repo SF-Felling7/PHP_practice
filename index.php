@@ -7,13 +7,15 @@
   <body>
 
   <?php
-  $name = 'Hello Sean Felling';
-  echo $name . " ";
 
+  echo 98 * 13;
+  echo "<br>";
 
-  echo $name = "<h1>HELLO!</h1>";
+  echo 100 - 56;
+  echo "<br>";
 
-  echo $name;
-   ?>
+  echo 45 / 5;
+
+  ?>
   </body>
 </html>
