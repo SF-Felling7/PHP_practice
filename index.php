@@ -10,7 +10,7 @@
   $number1 = 10;
       $number2 = "100";
 
-      echo $number1 + $number2;
+      echo $number1 . $number2;
    ?>
   </body>
 </html>
