@@ -7,10 +7,13 @@
   <body>
 
   <?php
-  $number1 = 10;
-  $number2 = 100;
+  $name = 'Hello Sean Felling';
+  echo $name . " ";
 
-      echo $number1 . "<br>" . "HELLO" . "<br>" . $number2;
+
+  echo $name = "<h1>HELLO!</h1>";
+
+  echo $name;
    ?>
   </body>
 </html>
