@@ -8,13 +8,11 @@
 
   <?php
 
-  echo 98 * 13;
-  echo "<br>";
+  $words = ["hello", "how are you?"];
 
-  echo 100 - 56;
-  echo "<br>";
+  print $words ;
 
-  echo 45 / 5;
+
 
   ?>
   </body>
