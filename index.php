@@ -10,7 +10,7 @@
 
   $words = ["hello", "how are you?"];
 
-  print $words ;
+  echo $words ;
 
 
 
