@@ -8,7 +8,7 @@
 
   <?php
 
-  $words = ["hello fellas"];
+  $words = ["hello World"];
 
   echo $words ;
 
