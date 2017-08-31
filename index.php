@@ -1,5 +1,5 @@
-require 'vendor/autoload.php'; 
 <!DOCTYPE html>
+
 <html>
   <head>
     <meta charset="utf-8">
@@ -12,7 +12,7 @@ require 'vendor/autoload.php';
 <?php
 formatDate(time());
 ?>
-
+<?php require 'vendor/autoload.php';  ?>
 
 
 
