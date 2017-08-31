@@ -6,6 +6,11 @@
             "email": "Snfelling7@gmail.com"
         }
     ],
+    "autoload": {
+    "files": [
+        "vendor/functions.php"
+    ]
+},
     "require": {
         "monolog/monolog": "^1.23"
     }

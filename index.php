@@ -1,3 +1,4 @@
+require 'vendor/autoload.php'; 
 <!DOCTYPE html>
 <html>
   <head>
@@ -6,14 +7,14 @@
   </head>
   <body>
 
-  <?php
-
-  $words = "hello Big World";
-
-  echo $words ;
 
 
+<?php
+formatDate(time());
+?>
 
-  ?>
+
+
+
   </body>
 </html>
