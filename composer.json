@@ -6,5 +6,7 @@
             "email": "Snfelling7@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "monolog/monolog": "^1.23"
+    }
 }
